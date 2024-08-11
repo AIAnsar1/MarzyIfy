@@ -1,0 +1,3 @@
+D:/MyProjects/TestingQA/TaxonimFamily/MarzyIfy/cmake-build-debug/CMakeFiles/MarzyIfy.dir
+D:/MyProjects/TestingQA/TaxonimFamily/MarzyIfy/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MyProjects/TestingQA/TaxonimFamily/MarzyIfy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
