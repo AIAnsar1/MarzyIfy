@@ -8,7 +8,7 @@ To remove MarzyIfy from your Kubernetes cluster, run the following command:
 - For Kubectl:
 
 ```bash
-kubectl delete -f https://raw.githubusercontent.com/Sayawdera/MarzyIfy/master/resources/alaz.yaml
+kubectl delete -f https://raw.githubusercontent.com/Sayawdera/MarzyIfy/master/resources/MarzyIfy.yaml
 ```
 
 - For Helm:
