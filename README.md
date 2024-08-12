@@ -14,7 +14,7 @@ kubectl delete -f https://raw.githubusercontent.com/Sayawdera/MarzyIfy/master/re
 - For Helm:
 
 ```bash
-helm delete marzy --namespace anteon
+helm delete marzy --namespace Taxonim
 ```
 
 
