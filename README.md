@@ -14,7 +14,7 @@ kubectl delete -f https://raw.githubusercontent.com/Sayawdera/MarzyIfy/master/re
 - For Helm:
 
 ```bash
-helm delete alaz --namespace anteon
+helm delete marzy --namespace anteon
 ```
 
 
@@ -35,7 +35,7 @@ MarzyIfy ~ supports the following protocols:
 - MongoDB
 
 
-## About
+## ⚠️ About
 
-<h3>Created By ~ Abu Ayub Al Ansar</h3>
-<h3>Powered By ~ Abu Ali Al Ansar</h3>
+<h3>Created By ~ 👨🏻‍💻 Abu Ayub Al Ansar</h3>
+<h3>Powered By ~ 🩸 Abu Ali Al Ansar</h3>

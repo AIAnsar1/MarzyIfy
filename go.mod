@@ -2,7 +2,6 @@ module MarzyIfy
 
 go 1.22.2
 
-
 require (
 	github.com/NVIDIA/go-nvml v0.12.0-2
 	github.com/alecthomas/kingpin/v2 v2.4.0
@@ -24,7 +23,7 @@ require (
 	golang.org/x/mod v0.12.0
 	inet.af/netaddr v0.0.0-20230525184311-b8eac61e914a
 	k8s.io/api v0.27.2
-	k8s.io/apimachinery v0.27.2
+	k8s.io/apimachinery v0.30.3
 	k8s.io/client-go v0.27.2
 	k8s.io/cri-api v0.0.0
 	k8s.io/kubernetes v1.29.1
@@ -121,7 +120,7 @@ require (
 	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/term v0.16.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
-	golang.org/x/time v0.3.0
+	golang.org/x/time v0.6.0
 	golang.org/x/tools v0.12.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.33.0 // indirect
