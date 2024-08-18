@@ -115,7 +115,6 @@ type AddressPort struct {
 	Name     string `json:"name"`
 }
 
-// Subsets
 type Address struct {
 	IPs   []AddressIP   `json:"ips"`
 	Ports []AddressPort `json:"ports"`
