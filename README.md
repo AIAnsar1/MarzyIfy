@@ -14,11 +14,7 @@ kubectl delete -f https://raw.githubusercontent.com/Sayawdera/MarzyIfy/master/re
 - For Helm:
 
 ```bash
-<<<<<<< HEAD
-helm delete marzy --namespace anteon
-=======
 helm delete marzy --namespace Taxonim
->>>>>>> b48809474a58c8430fe982c7a2083484eebc164e
 ```
 
 
@@ -41,10 +37,6 @@ MarzyIfy ~ supports the following protocols:
 
 ## ⚠️ About
 
-<<<<<<< HEAD
-<h3>Created By ~ 👨🏻‍💻 Abu Ayub Al Ansar</h3>
-<h3>Powered By ~ 🩸 Abu Ali Al Ansar</h3>
-=======
-<h3>Created By ~ Abu Ayub Al Ansar</h3>
-<h3>Powered By ~ Abu Ali Al Ansar</h3>
->>>>>>> b48809474a58c8430fe982c7a2083484eebc164e
+<p>Created By ~ 👨🏻‍💻 Abu Ayub Al Ansar</p>
+<p>Powered By ~ 🩸 Abu Ali Al Ansar</p>
+
