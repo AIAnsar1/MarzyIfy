@@ -37,6 +37,4 @@ MarzyIfy ~ supports the following protocols:
 
 ## ⚠️ About
 
-<p>Created By ~ 👨🏻‍💻 Abu Ayub Al Ansar</p>
-<p>Powered By ~ 🩸 Abu Ali Al Ansar</p>
 
